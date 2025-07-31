@@ -1,3 +1,3 @@
   method Z_METHOD.
-    write 'tets'.
+    write 'teghhgfts'.
   endmethod.
