@@ -1,3 +1,4 @@
   method Z_METHOD.
-    write 'teghhgfts'.
+    write 'tegffdhfduhhgfts'.
+    WRITE 'nnn'.
   endmethod.
