@@ -1,3 +1,3 @@
   method Z_GCTSMETH.
-  write:'ldffhfdgh'.
+  write:'lgdfdfhgh'.
   endmethod.
