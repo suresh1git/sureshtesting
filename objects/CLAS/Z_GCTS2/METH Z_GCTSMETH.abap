@@ -1,5 +1,5 @@
   method Z_GCTSMETH.
   write:'lgdfgsdft'.
   write:'chjgfdkhgdnflict'.
-  write:'nhggine'.
+  write:'ngfgine'.
   endmethod.
