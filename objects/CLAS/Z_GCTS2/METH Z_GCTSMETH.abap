@@ -1,4 +1,4 @@
   method Z_GCTSMETH.
   write:'lgdfgsdft'.
-  write:'cghdfssgfdnflict'.
+  write:'cgdghfdifdnflict'.
   endmethod.
