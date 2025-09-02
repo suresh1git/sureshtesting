@@ -3,4 +3,5 @@
   write:'chjgfdkhgdnflict'.
   write:'ngfgine'.
   write:'hellow nag'.
+  write:'hello'.
   endmethod.
