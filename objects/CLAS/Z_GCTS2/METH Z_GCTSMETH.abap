@@ -4,4 +4,5 @@
   write:'ngfgine'.
   write:'hellow nag'.
   write:'hello'.
+  write:'hello'.
   endmethod.
