@@ -5,4 +5,5 @@
   write:'hellow nag'.
   write:'hello'.
   write:'hello'.
+  write:'Hello team'.
   endmethod.
