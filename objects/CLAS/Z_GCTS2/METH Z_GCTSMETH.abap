@@ -10,4 +10,5 @@
   write:'hkljkl/;klamz'.
   write:'Hello dr'.
   write:'Hello'.
+  write:'hello'.
   endmethod.
