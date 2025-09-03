@@ -7,4 +7,5 @@
   write:'hello'.
   write:'Hello team'.
   write:'hello team'.
+  write:'hellow tesamz'.
   endmethod.
