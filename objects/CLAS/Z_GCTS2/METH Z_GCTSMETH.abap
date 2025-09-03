@@ -6,4 +6,5 @@
   write:'hello'.
   write:'hello'.
   write:'Hello team'.
+  write:'hello team'.
   endmethod.
