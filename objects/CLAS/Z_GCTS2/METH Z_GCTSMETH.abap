@@ -9,4 +9,5 @@
   write:'hello team'.
   write:'hellow tesamz'.
   write:'Hello dr'.
+  write:'Hello'.
   endmethod.
