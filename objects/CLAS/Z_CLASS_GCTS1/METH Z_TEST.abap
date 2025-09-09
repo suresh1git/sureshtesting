@@ -2,4 +2,5 @@
   write 'test'.
   write 'test1'.
   write 'test2'.
+  write 'test3'.
   endmethod.
