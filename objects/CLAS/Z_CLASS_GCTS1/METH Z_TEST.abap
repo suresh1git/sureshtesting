@@ -6,4 +6,5 @@
   write 'test4'.
   write 'test4'.
   write 'test5'.
+  write 'test6'.
   endmethod.
