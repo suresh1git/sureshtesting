@@ -9,4 +9,5 @@
   write 'test6'.
   write 'test7'.
   write 'add'.
+  write 'sub'.
   endmethod.
