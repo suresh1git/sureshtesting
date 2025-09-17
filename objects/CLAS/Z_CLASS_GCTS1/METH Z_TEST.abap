@@ -8,4 +8,5 @@
   write 'test5'.
   write 'test6'.
   write 'test7'.
+  write 'add'.
   endmethod.
