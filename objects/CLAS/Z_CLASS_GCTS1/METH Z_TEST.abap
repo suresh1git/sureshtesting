@@ -10,4 +10,5 @@
   write 'test7'.
   write 'add'.
   write 'sub'.
+  write 'sub'.
   endmethod.
