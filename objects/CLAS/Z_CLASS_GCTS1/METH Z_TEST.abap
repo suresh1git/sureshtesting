@@ -12,4 +12,5 @@
   write 'sub'.
   write 'sub'.
   write 'sub1'.
+  write 'sub2'.
   endmethod.
