@@ -14,4 +14,5 @@
   write 'sub1'.
   write 'sub2'.
   write 'sub3'.
+  write 'sub4'.
   endmethod.
