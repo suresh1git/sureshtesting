@@ -16,5 +16,5 @@
   write 'sub3'.
   write 'sub4'.
   write 'sub65'.
-  write 'sufffgfdhdsdfhdfhfgnsm,gnmhnfcghfgfdhdhdfghghgftesting2334jcgdfhcxsdfgdfgdjgheiubfdjg76'.
+  write 'sufffgfdhfghfghdsdfhdfhfgnsm,gnmhnfcghfgfdhdhdfghghgftesting2334jcgdfhcxsdfgdfgdjgheiubfdjg76'.
   endmethod.
