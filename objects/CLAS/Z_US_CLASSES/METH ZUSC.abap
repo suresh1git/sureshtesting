@@ -1,3 +1,3 @@
   method ZUSC.
-    write 'test'.
+    write 'txfhdfhest'.
   endmethod.
