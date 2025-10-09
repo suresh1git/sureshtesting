@@ -1,5 +1,5 @@
   method ZUSC.
     write 'txfhdfhest'.
     write 'testtest'.
-    write 'test'.
+    write 'tgrdest'.
   endmethod.
