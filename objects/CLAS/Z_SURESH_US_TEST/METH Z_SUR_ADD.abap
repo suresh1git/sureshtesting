@@ -2,4 +2,5 @@
     write 'test'.
     write 'add'.
     write 'delete'.
+    write 'deleteghdhfdgh'.
   endmethod.
