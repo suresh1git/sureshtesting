@@ -3,4 +3,5 @@
     write 'add'.
     write 'delete'.
     write 'deleteghdhfdgh'.
+    write 'testing'.
   endmethod.
