@@ -6,12 +6,12 @@
    {
     "PGMID":"R3TR",
     "OBJECT":"DEVC",
-    "OBJ_NAME":"Z_TESTING_GCTS_VALIDATE",
+    "OBJ_NAME":"Z_GCTS_TEST1",
     "KORRNUM":"",
     "SRCSYSTEM":"...",
     "AUTHOR":"ROPL067",
     "SRCDEP":"",
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_GCTS_TEST1",
     "GENFLAG":"",
     "EDTFLAG":"",
     "CPROJECT":" S",
@@ -34,7 +34,7 @@
   "data":
   [
    {
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_GCTS_TEST1",
     "INTSYS":"",
     "CONSYS":"",
     "CTEXT":"",
@@ -85,7 +85,7 @@
   "data":
   [
    {
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_GCTS_TEST1",
     "SPRAS":"E",
     "CTEXT":"testing"
    }
