@@ -6,4 +6,5 @@
     write 'thdfghsfh'.
     write 'tfghdfgh'.
     write 'testing'.
+    write 'testing123'.
   endmethod.
