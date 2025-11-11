@@ -4,4 +4,8 @@
     write 'delete'.
     write 'deleteghdhfdgh'.
     write 'thdfghsfh'.
+    write 'tfghdfgh'.
+    write 'testing'.
+    write 'testing123'.
+    write 'testing3333'.
   endmethod.
