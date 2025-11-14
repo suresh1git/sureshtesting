@@ -12,4 +12,5 @@
     write 'testing'.
     write 'testing'.
     write 'testing'.
+    write 'testing'.
   endmethod.
