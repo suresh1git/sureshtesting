@@ -1,4 +1,4 @@
   method Z_MUL.
-    write:'TESTING'.
+    write:'TtestESTING'.
     write:'test'.
   endmethod.
