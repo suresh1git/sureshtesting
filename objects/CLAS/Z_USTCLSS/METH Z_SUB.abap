@@ -1,3 +1,3 @@
   method Z_SUB.
-    write 'rettgfgfsr'.
+    write 'rettttttgfgfsr'.
   endmethod.
