@@ -1,4 +1,4 @@
   method Z_MUL.
     write:'TtestESTING'.
-    write:'test'.
+    write:'tewertyuist'.
   endmethod.
