@@ -1,4 +1,4 @@
   method Z_SUB.
-    write 'rettestestintesygtingestingttttttgfgfsr'.
-    write 'tetesfdhgjhlfdsdfgsdfghjkhjktestingtingstestingtestingting'.
+    write 'rettdfgdfgestestintesygtingestingttttttgfgfsr'.
+    write 'tetesfdhgjhgkghjjhlfdsdfgsdfghjkhjktestingtingstestingtestingting'.
   endmethod.
