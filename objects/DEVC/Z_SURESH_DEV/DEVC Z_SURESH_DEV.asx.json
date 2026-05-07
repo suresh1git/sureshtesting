@@ -6,12 +6,12 @@
    {
     "PGMID":"R3TR",
     "OBJECT":"DEVC",
-    "OBJ_NAME":"Z_TESTING_GCTS_VALIDATE",
+    "OBJ_NAME":"Z_SURESH_DEV",
     "KORRNUM":"",
     "SRCSYSTEM":"...",
     "AUTHOR":"ROPL067",
     "SRCDEP":"",
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_SURESH_DEV",
     "GENFLAG":"",
     "EDTFLAG":"",
     "CPROJECT":" S",
@@ -23,8 +23,8 @@
     "CRELEASE":"",
     "DELFLAG":"",
     "TRANSLTTXT":"",
-    "CREATED_ON":"2025-10-09",
-    "CHECK_DATE":"2025-10-09",
+    "CREATED_ON":"2026-03-10",
+    "CHECK_DATE":"2026-03-10",
     "CHECK_CFG":""
    }
   ]
@@ -34,7 +34,7 @@
   "data":
   [
    {
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_SURESH_DEV",
     "INTSYS":"",
     "CONSYS":"",
     "CTEXT":"",
@@ -55,10 +55,10 @@
     "RESTRICTED":"",
     "MAINPACK":"",
     "CREATED_BY":"ROPL067",
-    "CREATED_ON":"2025-10-09",
+    "CREATED_ON":"2026-03-10",
     "CHANGED_BY":"ROPL067",
-    "CHANGED_ON":"2025-10-09",
-    "SRV_CHECK":"",
+    "CHANGED_ON":"2026-03-10",
+    "SRV_CHECK":"X",
     "CLI_CHECK":"",
     "EXT_ALIAS":"",
     "PROJECT_GUID":"",
@@ -85,9 +85,9 @@
   "data":
   [
    {
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_SURESH_DEV",
     "SPRAS":"E",
-    "CTEXT":"testing"
+    "CTEXT":"Development package for testing ABAP objects"
    }
   ]
  }

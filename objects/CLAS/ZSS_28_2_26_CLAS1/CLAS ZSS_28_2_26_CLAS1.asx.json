@@ -4,7 +4,7 @@
   "data":
   [
    {
-    "TYPENAME":"Z_CLASS_GCTS1",
+    "TYPENAME":"ZSS_28_2_26_CLAS1",
     "STATE":"A",
     "TYPEKIND":"CLAS"
    }
@@ -15,9 +15,9 @@
   "data":
   [
    {
-    "CLSNAME":"Z_CLASS_GCTS1",
+    "CLSNAME":"ZSS_28_2_26_CLAS1",
     "CLSTYPE":0,
-    "UUID":"G6erMQfzH9Ci5Q3QdEa1Rw==",
+    "UUID":"p+72z6eeH9GFjd7SM8hOsA==",
     "REMOTE":""
    }
   ]
@@ -27,14 +27,14 @@
   "data":
   [
    {
-    "CLSNAME":"Z_CLASS_GCTS1",
+    "CLSNAME":"ZSS_28_2_26_CLAS1",
     "VERSION":1,
     "CATEGORY":0,
     "EXPOSURE":2,
     "STATE":1,
     "RELEASE":0,
     "AUTHOR":"",
-    "CREATEDON":"0000-00-00",
+    "CREATEDON":"2026-02-28",
     "CHANGEDBY":"",
     "CHANGEDON":"0000-00-00",
     "CHGDANYBY":"",
@@ -71,9 +71,9 @@
   "data":
   [
    {
-    "CLSNAME":"Z_CLASS_GCTS1",
+    "CLSNAME":"ZSS_28_2_26_CLAS1",
     "LANGU":"E",
-    "DESCRIPT":"TESTING"
+    "DESCRIPT":"ZSS_28_2_26_CLAS1"
    }
   ]
  },
@@ -84,12 +84,12 @@
    {
     "PGMID":"R3TR",
     "OBJECT":"CLAS",
-    "OBJ_NAME":"Z_CLASS_GCTS1",
+    "OBJ_NAME":"ZSS_28_2_26_CLAS1",
     "KORRNUM":"",
     "SRCSYSTEM":"...",
-    "AUTHOR":"ROPL067",
+    "AUTHOR":"TESTCON1",
     "SRCDEP":"",
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_TESTING_GCTS_SURESH1",
     "GENFLAG":"",
     "EDTFLAG":"",
     "CPROJECT":" S",
@@ -101,8 +101,8 @@
     "CRELEASE":"",
     "DELFLAG":"",
     "TRANSLTTXT":"",
-    "CREATED_ON":"2025-09-06",
-    "CHECK_DATE":"2025-09-06",
+    "CREATED_ON":"2026-02-28",
+    "CHECK_DATE":"2026-02-28",
     "CHECK_CFG":""
    }
   ]
@@ -112,7 +112,7 @@
   "data":
   [
    {
-    "CLASSNAME":"Z_CLASS_GCTS1",
+    "CLASSNAME":"ZSS_28_2_26_CLAS1",
     "METHODINDX":0,
     "METHODNAME":" ",
     "FLAGS":0
@@ -124,118 +124,100 @@
   "data":
   [
    {
-    "NAME":"Z_CLASS_GCTS1=================CCAU",
+    "NAME":"ZSS_28_2_26_CLAS1=============CCAU",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CCDEF",
+    "NAME":"ZSS_28_2_26_CLAS1=============CCDEF",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CCIMP",
+    "NAME":"ZSS_28_2_26_CLAS1=============CCIMP",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CCMAC",
+    "NAME":"ZSS_28_2_26_CLAS1=============CCMAC",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CI",
+    "NAME":"ZSS_28_2_26_CLAS1=============CI",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CO",
+    "NAME":"ZSS_28_2_26_CLAS1=============CO",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CP",
+    "NAME":"ZSS_28_2_26_CLAS1=============CP",
     "EDTX":"X",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"K",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CT",
+    "NAME":"ZSS_28_2_26_CLAS1=============CT",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CU",
+    "NAME":"ZSS_28_2_26_CLAS1=============CU",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"

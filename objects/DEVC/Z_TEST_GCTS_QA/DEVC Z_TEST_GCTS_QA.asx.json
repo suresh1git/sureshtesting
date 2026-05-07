@@ -6,12 +6,12 @@
    {
     "PGMID":"R3TR",
     "OBJECT":"DEVC",
-    "OBJ_NAME":"Z_TESTING_GCTS_VALIDATE",
+    "OBJ_NAME":"Z_TEST_GCTS_QA",
     "KORRNUM":"",
     "SRCSYSTEM":"...",
     "AUTHOR":"ROPL067",
     "SRCDEP":"",
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_TEST_GCTS_QA",
     "GENFLAG":"",
     "EDTFLAG":"",
     "CPROJECT":" S",
@@ -23,8 +23,8 @@
     "CRELEASE":"",
     "DELFLAG":"",
     "TRANSLTTXT":"",
-    "CREATED_ON":"2025-10-09",
-    "CHECK_DATE":"2025-10-09",
+    "CREATED_ON":"2025-07-31",
+    "CHECK_DATE":"2025-07-31",
     "CHECK_CFG":""
    }
   ]
@@ -34,7 +34,7 @@
   "data":
   [
    {
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_TEST_GCTS_QA",
     "INTSYS":"",
     "CONSYS":"",
     "CTEXT":"",
@@ -55,9 +55,9 @@
     "RESTRICTED":"",
     "MAINPACK":"",
     "CREATED_BY":"ROPL067",
-    "CREATED_ON":"2025-10-09",
+    "CREATED_ON":"2025-07-31",
     "CHANGED_BY":"ROPL067",
-    "CHANGED_ON":"2025-10-09",
+    "CHANGED_ON":"2025-07-31",
     "SRV_CHECK":"",
     "CLI_CHECK":"",
     "EXT_ALIAS":"",
@@ -85,7 +85,7 @@
   "data":
   [
    {
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_TEST_GCTS_QA",
     "SPRAS":"E",
     "CTEXT":"testing"
    }

@@ -4,7 +4,7 @@
   "data":
   [
    {
-    "TYPENAME":"Z_CLASS_GCTS1",
+    "TYPENAME":"Z_HELLO_WORLD",
     "STATE":"A",
     "TYPEKIND":"CLAS"
    }
@@ -15,9 +15,9 @@
   "data":
   [
    {
-    "CLSNAME":"Z_CLASS_GCTS1",
+    "CLSNAME":"Z_HELLO_WORLD",
     "CLSTYPE":0,
-    "UUID":"G6erMQfzH9Ci5Q3QdEa1Rw==",
+    "UUID":"vwgcIDFDH9GHkNksC28YjQ==",
     "REMOTE":""
    }
   ]
@@ -27,14 +27,14 @@
   "data":
   [
    {
-    "CLSNAME":"Z_CLASS_GCTS1",
+    "CLSNAME":"Z_HELLO_WORLD",
     "VERSION":1,
     "CATEGORY":0,
     "EXPOSURE":2,
     "STATE":1,
     "RELEASE":0,
     "AUTHOR":"",
-    "CREATEDON":"0000-00-00",
+    "CREATEDON":"2026-03-10",
     "CHANGEDBY":"",
     "CHANGEDON":"0000-00-00",
     "CHGDANYBY":"",
@@ -71,9 +71,32 @@
   "data":
   [
    {
-    "CLSNAME":"Z_CLASS_GCTS1",
+    "CLSNAME":"Z_HELLO_WORLD",
     "LANGU":"E",
-    "DESCRIPT":"TESTING"
+    "DESCRIPT":"First ABAP program from Eclipse"
+   }
+  ]
+ },
+ {
+  "table":"SEOMETAREL",
+  "data":
+  [
+   {
+    "CLSNAME":"Z_HELLO_WORLD",
+    "REFCLSNAME":"IF_OO_ADT_CLASSRUN",
+    "VERSION":1,
+    "STATE":1,
+    "AUTHOR":"",
+    "CREATEDON":"2026-03-10",
+    "CHANGEDBY":"",
+    "CHANGEDON":"0000-00-00",
+    "RELTYPE":1,
+    "RELNAME":"",
+    "EXPOSURE":2,
+    "IMPFINAL":"",
+    "IMPABSTRCT":"",
+    "EDITORDER":1,
+    "PARTIALLYIMP":""
    }
   ]
  },
@@ -84,12 +107,12 @@
    {
     "PGMID":"R3TR",
     "OBJECT":"CLAS",
-    "OBJ_NAME":"Z_CLASS_GCTS1",
+    "OBJ_NAME":"Z_HELLO_WORLD",
     "KORRNUM":"",
     "SRCSYSTEM":"...",
     "AUTHOR":"ROPL067",
     "SRCDEP":"",
-    "DEVCLASS":"Z_TESTING_GCTS_VALIDATE",
+    "DEVCLASS":"Z_SURESH_DEV",
     "GENFLAG":"",
     "EDTFLAG":"",
     "CPROJECT":" S",
@@ -101,8 +124,8 @@
     "CRELEASE":"",
     "DELFLAG":"",
     "TRANSLTTXT":"",
-    "CREATED_ON":"2025-09-06",
-    "CHECK_DATE":"2025-09-06",
+    "CREATED_ON":"2026-03-10",
+    "CHECK_DATE":"2026-03-10",
     "CHECK_CFG":""
    }
   ]
@@ -112,9 +135,15 @@
   "data":
   [
    {
-    "CLASSNAME":"Z_CLASS_GCTS1",
+    "CLASSNAME":"Z_HELLO_WORLD",
     "METHODINDX":0,
     "METHODNAME":" ",
+    "FLAGS":0
+   },
+   {
+    "CLASSNAME":"Z_HELLO_WORLD",
+    "METHODINDX":1,
+    "METHODNAME":"IF_OO_ADT_CLASSRUN~MAIN",
     "FLAGS":0
    }
   ]
@@ -124,118 +153,111 @@
   "data":
   [
    {
-    "NAME":"Z_CLASS_GCTS1=================CCAU",
+    "NAME":"Z_HELLO_WORLD=================CCAU",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CCDEF",
+    "NAME":"Z_HELLO_WORLD=================CCDEF",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CCIMP",
+    "NAME":"Z_HELLO_WORLD=================CCIMP",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CCMAC",
+    "NAME":"Z_HELLO_WORLD=================CCMAC",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CI",
+    "NAME":"Z_HELLO_WORLD=================CI",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CO",
+    "NAME":"Z_HELLO_WORLD=================CM001",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CP",
+    "NAME":"Z_HELLO_WORLD=================CO",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"Z_HELLO_WORLD=================CP",
     "EDTX":"X",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"K",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CT",
+    "NAME":"Z_HELLO_WORLD=================CT",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
    },
    {
-    "NAME":"Z_CLASS_GCTS1=================CU",
+    "NAME":"Z_HELLO_WORLD=================CU",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
     "APPL":"S",
-    "UNAM":"ROPL067",
-    "RMAND":"100",
     "FIXPT":"X",
     "LDBNAME":"D$S",
     "UCCHECK":"X"
