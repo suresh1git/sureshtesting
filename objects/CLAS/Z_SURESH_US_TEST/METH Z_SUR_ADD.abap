@@ -12,5 +12,5 @@
     write 'testing'.
     write 'ttestingsting'.
     write 'tesgggting'.
-    write 'testing'.
+    write 'testing12'.
   endmethod.
