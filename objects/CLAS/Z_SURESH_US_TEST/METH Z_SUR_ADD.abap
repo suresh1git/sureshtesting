@@ -9,8 +9,8 @@
     write 'testing123'.
     write 'tdtrdomhhfjsdhglkjsdgfgfhdfhdfghfghjfgdhdflgkhjkdfgjhgsdfg333'.
     write 'tkgfsjdhfg33'.
-    write 'testing'.
+    write 'testing1'.
     write 'ttestingsting'.
     write 'tesgggting'.
-    write 'testing122SURESH'.
+    write 'testing12test'.
   endmethod.
